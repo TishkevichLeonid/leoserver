@@ -1,6 +1,7 @@
 package com.leo.server;
 
 import com.leo.server.config.WebConfig;
+import com.leo.server.repository.RemindRepository;
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
